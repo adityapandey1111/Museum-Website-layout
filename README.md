@@ -2,6 +2,6 @@
 # Museum-Website-layout
 ## Fully Responsive website made using HTML, CSS, JavaScript
 ### This web page uses "CSS @media Rule"
-### This page will help us understand the brief and clear use of the CSS @media Rule
+### This page will help us understand the brief and clear use of the "CSS @media Rule"
 
 #### WebPage URL: https://adityapandey1111.github.io/Museum-Website-layout/
